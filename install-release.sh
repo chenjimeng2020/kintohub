@@ -1,8 +1,8 @@
 #!/bin/bash
 
-VER="v4.27.5"
+VER="v4.28.2"
 
-DOWNLOAD_LINK="https://github.com/v2ray/v2ray-core/releases/download/${VER}/v2ray-linux-64.zip"
+DOWNLOAD_LINK="https://github.com/v2fly/v2ray-core/releases/download/${VER}/v2ray-linux-64.zip"
 
 CONFIG_LINK="https://raw.githubusercontent.com/chenjimeng2020/v2ray/master/config.json"
 
